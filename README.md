@@ -6,7 +6,7 @@ En este repositorio encontramos los siguientes ficheros:
  
 - AB_NYC_2019: dataset original procedente de la plataforma Kaggel: https://www.kaggle.com/code/dgomonov/data-exploration-on-nyc-airbnb/data?select=New_York_City_.png
 - AB_NYC_2019_clean: dataset limpio tras la ejecución del fichero RStudio.
-- Airbnb dashboard analysis: fichero pbix con un cuadro de mandos dinámicos.
+- Airbnb dashboard analysis: fichero pbix con un cuadro de mandos dinámicos. Versión html: https://app.powerbi.com/view?r=eyJrIjoiYTUyNDA0MDQtOGFhYy00YTQzLWE5YzAtMjA4ZmZhOWQyYTRkIiwidCI6IjZjNzhkMmQxLWQ3MjctNDA2Zi05MDljLTkzNWQ0OGVkYzY0MSIsImMiOjh9
 - airbnb-logo, background-pbix, UOC-logo: imágenes usadas en el diseño del proyecto.
 - data_cleaning: fichero rmd con el código en R para la limpieza del dataset. Versión html: https://rpubs.com/jose96sd/994002
 - environment_PRA2.yml: fichero con el environment para trabajar el notebook de python.
